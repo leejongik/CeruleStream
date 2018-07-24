@@ -6,3 +6,5 @@
 - [x] Build Dependencies
 - [ ] ExoPlayer
 - [ ] MQTT
+
+## ExoPlayer
