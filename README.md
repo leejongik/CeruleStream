@@ -7,4 +7,4 @@
 - [ ] ExoPlayer
 - [ ] MQTT
 
-## ExoPlayer
+## ExoPlayer.
