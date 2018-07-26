@@ -60,7 +60,7 @@ public class ButtonMqtt extends AppCompatActivity{
             @Override
             public void onClick(View view) {
 
-                String topic = "ptz/y";
+                String topic = "app/movey";
                 String payload = "-3";
                 byte[] encodedPayload = new byte[0];
                 try {
@@ -78,7 +78,7 @@ public class ButtonMqtt extends AppCompatActivity{
             @Override
             public void onClick(View view) {
 
-                String topic = "ptz/y";
+                String topic = "app/movey";
                 String payload = "3";
                 byte[] encodedPayload = new byte[0];
                 try {
@@ -96,7 +96,7 @@ public class ButtonMqtt extends AppCompatActivity{
             @Override
             public void onClick(View view) {
 
-                String topic = "ptz/x";
+                String topic = "app/movex";
                 String payload = "-3";
                 byte[] encodedPayload = new byte[0];
                 try {
@@ -114,7 +114,7 @@ public class ButtonMqtt extends AppCompatActivity{
             @Override
             public void onClick(View view) {
 
-                String topic = "ptz/x";
+                String topic = "app/movex";
                 String payload = "3";
                 byte[] encodedPayload = new byte[0];
                 try {
