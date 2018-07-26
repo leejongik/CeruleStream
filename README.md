@@ -4,7 +4,8 @@
 
 - [x] Fabric
 - [x] Build Dependencies
+- [ ] DataBase
 - [ ] ExoPlayer
-- [ ] MQTT
+- [x] MQTT
 
-## ExoPlayer
+## MQTT
